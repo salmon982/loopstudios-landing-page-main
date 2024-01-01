@@ -23,7 +23,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](./Desktop%20(1).png)
+![Desktop](./Desktop%20(2).png)
+![Desktop](./Desktop%20(3).png)
+![Desktop - Active](./Desktop%20-%20Active%20(1).png)
+![Desktop - Active](./Desktop%20-%20Active%20(2).png)
+![Desktop - Active](./Desktop%20-%20Active%20(3).png)
+![Desktop - Active](./Desktop%20-%20Active%20(4).png)
+![Mobile](./Mobile%20(1).png)
+![Mobile](./Mobile%20(2).png)
+![Mobile](./Mobile%20(3).png)
+![Mobile](./Mobile%20(4).png)
 
 ### Links
 
